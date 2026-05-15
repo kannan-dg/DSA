@@ -1,3 +1,5 @@
+# Fixed window
+
 def fixed_size_sliding_window(arr, k):
     low = 0
     # 'high' acts as the right pointer of your window
